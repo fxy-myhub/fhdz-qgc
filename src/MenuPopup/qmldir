@@ -1,0 +1,11 @@
+﻿Module QGroundControl.MenuPopup
+
+
+EngineConfigDialog      1.0 EngineConfigDialog.qml
+LogDialog               1.0 LogDialog.qml
+MapConfigDialog         1.0 MapConfigDialog.qml
+ParameterDialog         1.0 ParameterDialog.qml
+PWMConfigDialog         1.0 PWMConfigDialog.qml
+RoutePlanDialog         1.0 RoutePlanDialog.qml
+SerialConfigDialog      1.0 SerialConfigDialog.qml
+ThemeSettingsDialog     1.0 ThemeSettingsDialog.qml

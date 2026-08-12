@@ -1,0 +1,16 @@
+﻿Module QGroundControl.MenuComponents
+
+
+AirLineMenu      1.0 AirLineMenu.qml
+CommMenu         1.0 CommMenu.qml
+ControlMenu      1.0 ControlMenu.qml
+DeployMenu       1.0 DeployMenu.qml
+FileMenu         1.0 FileMenu.qml
+FlightOpMenu     1.0 FlightOpMenu.qml
+InitConfigMenu   1.0 InitConfigMenu.qml
+LoadMenu         1.0 LoadMenu.qml
+OtherMenu        1.0 OtherMenu.qml
+RecordMenu       1.0 RecordMenu.qml
+TelecontrolMenu  1.0 TelecontrolMenu.qml
+TelemetryMenu    1.0 TelemetryMenu.qml
+SettingsMenu      1.0 SettingsMenu.qml
