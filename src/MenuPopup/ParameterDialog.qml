@@ -19,10 +19,9 @@ Popup {
     id: parameterDialog
     width: ScreenTools.defaultFontPixelWidth * 130
     height: ScreenTools.defaultFontPixelHeight * 45
-    modal: false
+    modal: true
     closePolicy: Popup.CloseOnEscape
     padding: 0
-
 
     property var rootItem: null
 
