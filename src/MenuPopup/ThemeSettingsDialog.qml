@@ -11,10 +11,9 @@ Popup {
     id: themeSettingsDialog
 
     width: ScreenTools.defaultFontPixelWidth * 40
-    modal: false
-    closePolicy: Popup.CloseOnEscape
+    modal: true
+    closePolicy: Popup.CloseOnEscape | Popup.CloseOnPressOutside
     padding: 0
-
 
     property var rootItem: null
 
