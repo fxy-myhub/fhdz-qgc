@@ -19,9 +19,10 @@ Popup {
     id: logDialog
     width: ScreenTools.defaultFontPixelWidth * 130
     height: ScreenTools.defaultFontPixelHeight * 45
-    modal: true
+    modal: false
     closePolicy: Popup.CloseOnEscape
     padding: 0
+
 
     property var rootItem: null
 
