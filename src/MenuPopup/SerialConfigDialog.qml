@@ -15,7 +15,7 @@ Popup {
 
     width: ScreenTools.defaultFontPixelWidth * 95
     height: ScreenTools.defaultFontPixelHeight * 22
-    modal: true
+    modal: false
     closePolicy: Popup.CloseOnEscape
     padding: 0
 

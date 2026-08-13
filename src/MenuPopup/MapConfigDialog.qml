@@ -11,8 +11,8 @@ Popup {
     id: mapConfigDialog
 
     width: ScreenTools.defaultFontPixelWidth * 30
-    modal: true
-    closePolicy: Popup.CloseOnEscape | Popup.CloseOnPressOutside
+    modal: false
+    closePolicy: Popup.CloseOnEscape
     padding: 0
 
     property var mapControl: null
