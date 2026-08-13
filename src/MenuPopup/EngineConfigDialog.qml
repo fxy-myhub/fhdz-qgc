@@ -10,8 +10,8 @@ Popup {
     id: engineConfigDialog
 
     width: ScreenTools.defaultFontPixelWidth * 40
-    modal: true
-    closePolicy: Popup.CloseOnEscape | Popup.CloseOnPressOutside
+    modal: false
+    closePolicy: Popup.CloseOnEscape
     padding: 0
 
     property var rootItem: null
